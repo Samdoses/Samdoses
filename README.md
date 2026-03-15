@@ -52,11 +52,8 @@ Here are a few projects I'm particularly proud of:
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samdoses&theme=default&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samdoses&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="160"/>
-</p>
+![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samdoses&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samdoses&layout=compact&theme=radical)
 
 ---
 
