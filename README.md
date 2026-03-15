@@ -1,26 +1,48 @@
-# Hi there, I'm Sam 👋
+<h1 align="center">Hi, I'm Samuel 👋</h1>
 
-Welcome to my GitHub! I am a passionate software developer who enjoys building everything from logic-based games to low-level hardware programs and web applications. I love tackling complex problems and am constantly learning new technologies to improve my craft.
+<p align="center">
+  Computer Science student with a focus on <strong>embedded systems</strong> and <strong>backend development</strong>.<br/>
+  I enjoy working close to the metal — from AVR microcontrollers to server-side logic.
+</p>
 
-### 👨‍💻 About Me
-
-* 🎓 I’m currently developing my skills in **Java, C, and PHP**.
-* 💡 I enjoy working on diverse projects, including embedded systems (AVR), game logic, and full-stack web development.
-* 🚀 Always looking for new challenges and opportunities to collaborate on open-source projects.
-* 📫 How to reach me: [Insert your email or LinkedIn link here]
-
----
-
-### 🛠️ Languages and Tools
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+  <a href="https://www.linkedin.com/in/samuel-d-souza/">
+    <img src="https://img.shields.io/badge/LinkedIn-samuel--d--souza-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Samdoses">
+    <img src="https://img.shields.io/badge/GitHub-Samdoses-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
-### 🚀 Featured Projects
+## About Me
+
+- 🎓 Currently studying Computer Science at university
+- 🔧 Interested in **embedded systems**, low-level programming, and backend architecture
+- 💻 Primary languages: **C**, **Java**
+- 🤝 I enjoy collaborative projects and working within team-based git workflows
+- 🌱 Always looking to deepen my understanding of how software interacts with hardware
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+
+**Tools & Platforms**
+
+![AVR](https://img.shields.io/badge/AVR-Microcontroller-lightgrey?style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+## Featured Projects
 
 Here are a few projects I'm particularly proud of:
 
@@ -31,7 +53,16 @@ Here are a few projects I'm particularly proud of:
 
 ---
 
-### 📊 GitHub Stats
+## GitHub Stats
 
-![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samdoses&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samdoses&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Samdoses&theme=default&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samdoses&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="160"/>
+</p>
+
+---
+
+<p align="center">
+  <sub>Open to opportunities in embedded systems and backend development — feel free to reach out!</sub>
+</p>
