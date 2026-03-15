@@ -48,7 +48,7 @@ Here are a few projects I'm particularly proud of:
 
 * **[Mystic-Mazes](https://github.com/Samdoses/Mystic-Mazes)**: A Java-based application focused on maze generation and logic. 
 * **[AVR C Learning](https://github.com/Samdoses/avr-c-learning)**: A collection of C programs demonstrating my exploration and understanding of low-level microcontroller programming.
-* **[CS2TP Group Project](https://github.com/Samdoses/CS2TP-Group-Project)**: A collaborative full-stack web application built using PHP. *(Note: Make sure to update the repo description from "A website thing" to this!)*
+* **[CS2TP Group Project](https://github.com/Samdoses/CS2TP-Group-Project)**: A collaborative full-stack web application built using PHP.
 * **[Tic-Tac-Toe](https://github.com/Samdoses/Tic-Tac-Toe)**: A classic game implemented in Java, showcasing object-oriented programming principles and game logic.
 
 ---
