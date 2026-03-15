@@ -9,9 +9,6 @@
   <a href="https://www.linkedin.com/in/samuel-d-souza/">
     <img src="https://img.shields.io/badge/LinkedIn-samuel--d--souza-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/Samdoses">
-    <img src="https://img.shields.io/badge/GitHub-Samdoses-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
 </p>
 
 ---
